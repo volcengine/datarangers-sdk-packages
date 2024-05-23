@@ -1,0 +1,6 @@
+framework module VolcEngineEncryptor {
+  umbrella header "VolcEngineEncryptor.h"
+
+  export *
+  module * { export * }
+}
